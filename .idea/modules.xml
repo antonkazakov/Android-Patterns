@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AGERA/AGERA.iml" filepath="$PROJECT_DIR$/AGERA/AGERA.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidPatterns.iml" filepath="$PROJECT_DIR$/AndroidPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVP/MVP.iml" filepath="$PROJECT_DIR$/MVP/MVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvp+dagger2/MVP+DAGGER2.iml" filepath="$PROJECT_DIR$/mvp+dagger2/MVP+DAGGER2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVP+TIGER/MVP+TIGER.iml" filepath="$PROJECT_DIR$/MVP+TIGER/MVP+TIGER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM/mvvm.iml" filepath="$PROJECT_DIR$/MVVM/mvvm.iml" />
     </modules>
   </component>
 </project>

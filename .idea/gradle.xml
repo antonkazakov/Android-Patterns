@@ -8,8 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AGERA" />
             <option value="$PROJECT_DIR$/MVP" />
             <option value="$PROJECT_DIR$/MVP+DAGGER2" />
+            <option value="$PROJECT_DIR$/MVP+TIGER" />
+            <option value="$PROJECT_DIR$/MVVM" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

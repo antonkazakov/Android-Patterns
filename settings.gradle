@@ -1,1 +1,1 @@
-include ':MVP', ':mvp+dagger2', ':MVP+DAGGER2'
+include ':MVP', ':mvp+dagger2', ':MVP+DAGGER2', ':MVP+TIGER', ':AGERA', ':MVVM'
